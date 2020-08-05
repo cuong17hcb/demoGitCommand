@@ -10,7 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.Writeline("Cuong ne");
+            Console.Writeline("Cuong ne conflict nha");
         }
     }
 }
